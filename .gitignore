@@ -1,0 +1,4 @@
+data/
+bags.npy
+trained_model
+.DS_Store
